@@ -1,0 +1,14 @@
+{
+  "repo": "glm5.3flash-glm-5.3-flash-api-ko",
+  "model": "glm-5.3-flash",
+  "display": "GLM-5.3 Flash",
+  "variant": "llm-ko",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.06,
+    "cached_input": 0.012,
+    "output": 0.2
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
